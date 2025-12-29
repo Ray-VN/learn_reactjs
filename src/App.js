@@ -1,4 +1,8 @@
 import { useState } from 'react';
+import Hello from './Test/Hello';
+import Profile from './Test/Profile';
+import Counter from './Test/Counter';
+import ToogleMessages.Toogle from './Test/ToogleMessages';
 
 function App() {
   const [todos, setTodos] = useState([]);
@@ -13,14 +17,14 @@ function App() {
 
   return (
     <div>
-      <h1>ToDo List</h1>
-      <input value={text} onChange={(e) => setText(e.target.value)} />
-      <button onClick={addTodo}>Add</button>
-      <ul>
-        {todos.map((todo, idx) => (
-          <li key={idx}>{todo}</li>
-        ))}
-      </ul>
+      <Hello name="Ray"/>
+      {/* <Profile name="test" age="23"/> */}
+
+      <Counter />
+      <ToogleMessages />
+
+
+
     </div>
   );
 }
