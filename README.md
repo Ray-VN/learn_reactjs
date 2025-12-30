@@ -34,7 +34,7 @@ The page will reload when you make changes.
 ---
 
 ## Project Structure
-
+---
 src
 ├─ App.css
 ├─ App.js
@@ -49,8 +49,6 @@ src
    ├─ Hello.jsx
    ├─ Profile.jsx
    └─ ToogleMessages.jsx
-
-
 ---
 
 ## Mini Projects
