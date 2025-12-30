@@ -1,10 +1,12 @@
 # React Learning Project
+---
 
 This project is created to practice and master **React fundamentals** through examples and mini projects.
 
 ---
 
 ## Getting Started
+---
 
 In the project directory, you can run:
 
@@ -22,6 +24,7 @@ The page will reload when you make changes.
 ---
 
 ## What You Will Learn
+---
 
 - JSX  
 - Components  
@@ -35,6 +38,7 @@ The page will reload when you make changes.
 
 ## Project Structure
 ---
+
 src
 ├─ App.css
 ├─ App.js
@@ -61,6 +65,7 @@ src
 ---
 
 ## Tech Stack
+---
 
 - React  
 - Vite  
@@ -69,7 +74,7 @@ src
 ---
 
 ## Notes
-
+---
 This repository is built for **learning purposes** and can be reused as a foundation for future React projects.
 
 ---
