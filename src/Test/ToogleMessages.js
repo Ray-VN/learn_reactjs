@@ -5,15 +5,15 @@ const Toogle = () =>  {
     const [show, setShow] = useState(true);
 
     const handleClick = () => {
-        setShow(!show);
+        setShow(!show) && setShow(show);
     }
 
     return (
         <>
-            <h1>{show}</h1>
-            <button onClick={handleClick}>Click</button>
+            <h1>{show ? "Hello React" : ""}</h1>
+            <button onClick={handleClick}>Toogle</button>
         </>
     )
 }
 
-export default toogle;
+export default Toogle;

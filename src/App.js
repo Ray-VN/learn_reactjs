@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Hello from './Test/Hello';
 import Profile from './Test/Profile';
 import Counter from './Test/Counter';
-import ToogleMessages.Toogle from './Test/ToogleMessages';
+import ToogleMessages from './Test/ToogleMessages';
 
 function App() {
   const [todos, setTodos] = useState([]);
