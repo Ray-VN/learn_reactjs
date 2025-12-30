@@ -5,15 +5,8 @@ import Counter from './Test/Counter';
 import ToogleMessages from './Test/ToogleMessages';
 
 function App() {
-  const [todos, setTodos] = useState([]);
-  const [text, setText] = useState("");
+  const fruits = ["Apple", "Banana", "Orange"];
 
-  const addTodo = () => {
-    if (text.trim() !== "") {
-      setTodos([...todos, text]);
-      setText("");
-    }
-  };
 
   return (
     <div>
@@ -22,6 +15,13 @@ function App() {
 
       <Counter />
       <ToogleMessages />
+
+      <ul>
+        {fruits.map(f => (
+          <li>{f}</li>
+          )
+        )}
+      </ul>
 
 
 
