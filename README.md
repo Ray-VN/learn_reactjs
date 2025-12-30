@@ -1,27 +1,41 @@
-📘 React Learning Project
+# React Learning Project
 
-This repository is created to practice and understand React fundamentals through small examples and mini projects.
+This project is created to practice and master **React fundamentals** through examples and mini projects.
 
-🎯 Goals
+---
 
-Understand component-based architecture
+## Getting Started
 
-Learn core concepts:
+In the project directory, you can run:
 
-JSX
+### `npm install`
 
-Components
+Installs the required dependencies.
 
-Props & State
+### `npm run dev`
 
-Event Handling
+Runs the app in development mode.\
+Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
-Conditional & List Rendering
+The page will reload when you make changes.
 
-React Hooks
+---
 
-🧱 Project Structure
-─ src
+## What You Will Learn
+
+- JSX  
+- Components  
+- Props & State  
+- Event Handling  
+- Conditional Rendering  
+- List Rendering  
+- React Hooks (useState, useEffect)
+
+---
+
+## Project Structure
+
+  src
    ├─ App.css
    ├─ App.js
    ├─ App.test.js
@@ -37,42 +51,31 @@ React Hooks
       └─ ToogleMessages.jsx
 
 
-🚀 Getting Started
-npm install
-npm run dev
+---
 
+## Mini Projects
 
-Open: http://localhost:3000
+- Counter App  
+- Todo List  
+- Weather App *(in progress)*
 
-📚 Topics Covered
+---
 
-JSX
+## Tech Stack
 
-Components
+- React  
+- Vite  
+- JavaScript
 
-Props / State
+---
 
-useState, useEffect
+## Notes
 
-Mini Projects
+This repository is built for **learning purposes** and can be reused as a foundation for future React projects.
 
-🧩 Mini Projects
+---
 
-Counter App
+## Learn More
 
-Todo List
-
-Weather App (in progress)
-
-🛠 Tech Stack
-
-React
-
-Vite
-
-JavaScript
-
-📌 Notes
-
-This repo is built for learning and practice and can be reused as a base for future React projects.
-
+- [React Documentation](https://react.dev/)
+- [Vite Documentation](https://vitejs.dev/)
