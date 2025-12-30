@@ -1,12 +1,10 @@
 # React Learning Project
----
 
 This project is created to practice and master **React fundamentals** through examples and mini projects.
 
 ---
 
 ## Getting Started
----
 
 In the project directory, you can run:
 
@@ -17,14 +15,13 @@ Installs the required dependencies.
 ### `npm run dev`
 
 Runs the app in development mode.\
-Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.
 
 ---
 
 ## What You Will Learn
----
 
 - JSX  
 - Components  
@@ -37,7 +34,6 @@ The page will reload when you make changes.
 ---
 
 ## Project Structure
----
 
 src
 ├─ App.css
@@ -49,10 +45,10 @@ src
 ├─ reportWebVitals.js
 ├─ setupTests.js
 └─ Test
-   ├─ Counter.jsx
-   ├─ Hello.jsx
-   ├─ Profile.jsx
-   └─ ToogleMessages.jsx
+├─ Counter.jsx
+├─ Hello.jsx
+├─ Profile.jsx
+└─ ToogleMessages.jsx
    
 ---
 
@@ -65,7 +61,6 @@ src
 ---
 
 ## Tech Stack
----
 
 - React  
 - Vite  
@@ -74,7 +69,7 @@ src
 ---
 
 ## Notes
----
+
 This repository is built for **learning purposes** and can be reused as a foundation for future React projects.
 
 ---
