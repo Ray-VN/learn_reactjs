@@ -35,20 +35,20 @@ The page will reload when you make changes.
 
 ## Project Structure
 
-  src
-   ├─ App.css
-   ├─ App.js
-   ├─ App.test.js
-   ├─ index.css
-   ├─ index.js
-   ├─ logo.svg
-   ├─ reportWebVitals.js
-   ├─ setupTests.js
-   └─ Test
-      ├─ Counter.jsx
-      ├─ Hello.jsx
-      ├─ Profile.jsx
-      └─ ToogleMessages.jsx
+src
+├─ App.css
+├─ App.js
+├─ App.test.js
+├─ index.css
+├─ index.js
+├─ logo.svg
+├─ reportWebVitals.js
+├─ setupTests.js
+└─ Test
+   ├─ Counter.jsx
+   ├─ Hello.jsx
+   ├─ Profile.jsx
+   └─ ToogleMessages.jsx
 
 
 ---
