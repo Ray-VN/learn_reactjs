@@ -54,13 +54,6 @@ src
    
 ```
 
-## Mini Projects
----
-- Counter App  
-- Todo List  
-- Weather App *(in progress)*
-
----
 
 ## Tech Stack
 
@@ -80,32 +73,3 @@ This repository is built for **learning purposes** and can be reused as a founda
 
 - [React Documentation](https://react.dev/)
 - [Vite Documentation](https://vitejs.dev/)
-
-```
-todo-app
-├─ package-lock.json
-├─ package.json
-├─ public
-│  ├─ favicon.ico
-│  ├─ index.html
-│  ├─ logo192.png
-│  ├─ logo512.png
-│  ├─ manifest.json
-│  └─ robots.txt
-├─ README.md
-└─ src
-   ├─ App.css
-   ├─ App.js
-   ├─ App.test.js
-   ├─ index.css
-   ├─ index.js
-   ├─ logo.svg
-   ├─ reportWebVitals.js
-   ├─ setupTests.js
-   └─ Test
-      ├─ Counter.jsx
-      ├─ Hello.jsx
-      ├─ Profile.jsx
-      └─ ToogleMessages.jsx
-
-```
